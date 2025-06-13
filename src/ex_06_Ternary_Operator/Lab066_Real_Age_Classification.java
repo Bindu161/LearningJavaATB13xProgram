@@ -1,1 +1,0 @@
-package ex_06_Ternary_Operator;
