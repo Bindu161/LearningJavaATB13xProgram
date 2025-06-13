@@ -1,6 +1,5 @@
 package ex_07_Userinput;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Lab070_UserInput_Scanner_01 {
