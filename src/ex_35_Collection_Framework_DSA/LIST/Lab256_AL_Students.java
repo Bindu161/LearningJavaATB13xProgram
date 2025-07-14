@@ -21,8 +21,6 @@ public class Lab256_AL_Students {
 
         }
     }
-
-
     class Student{
 
         private String name;
@@ -54,7 +52,6 @@ public class Lab256_AL_Students {
             System.out.println("Student Name : " + this.name);
             System.out.println("Student Roll No: " + this.rollNo);
         }
-
         @Override
         public String toString() {
             return "Student{" +
